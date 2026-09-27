@@ -42,4 +42,4 @@ This project is part of my Python practice projects and is designed to improve m
 ## 👩‍💻 Author
 
 **Hafsa Zafar**
-
+Note: This is an educational simulation and is not connected to any real bank or financial system.
